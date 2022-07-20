@@ -1,0 +1,29 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+body {
+    background-image: linear-gradient(to bottom right, #212121, #644987, #ea80fc);
+    color: #000000;
+}
+.panel .panel-heading{
+    background-color: #212121;
+}
+.panel .panel-body{
+    background-image:linear-gradient(to bottom left, #212121, #644987, #ea80fc);
+}
+.panel .panel-footer{
+    background-color: #212121;
+}
+.modal-header{
+    background-color: #212121;
+}
+.modal-body{
+    background-image:linear-gradient(to bottom left, #212121, #644987, #ea80fc);
+}
+.modal-footer{
+    background-color: #212121;
+}

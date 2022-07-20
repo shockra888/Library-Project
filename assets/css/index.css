@@ -1,0 +1,70 @@
+body{
+    background-color: #000;
+}
+.jumbotron {
+    margin-top: 10%;
+}
+
+.navbar-right {
+    margin-top: 3px;
+}
+
+.carousel-inner img {
+    width: 100%;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 20%;
+}
+
+.carousel-caption h1 {
+    font-size: 500%;
+    text-shadow: 5px 5px 20px #000;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     color: #ea80fc;
+}
+.carousel-caption .text-2 {
+    font-size: 500%;
+    text-shadow: 1px 1px 10px #000;
+    color: #000;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.carousel-caption .btn-violet{
+    height: 15%;
+    width: 15%;
+    background-color: #ea80fc;
+    color: #000;
+}
+ .carousel-caption .btn-purple {
+    height: 20%;
+    width: 20%;
+    background-color: #644987;
+    color: #fff;
+}
+.modal-header, .modal-footer{
+    background-color:#212121;
+}
+.modal-body{
+     background-image:linear-gradient(to bottom left, #212121, #644987, #ea80fc);
+}
+.modal-body p{
+    color: #000;
+    font-size: 130%;
+}
+.modal-footer .btn{
+    background-color: #ea80fc;
+    color: #000;
+}
+.modal-footer .btn-butt {
+    background-color: #644987;
+    color: #fff;
+}
+.modal-header{
+    color: #fff;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#lab{
+    color: #d32f2f;
+}

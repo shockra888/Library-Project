@@ -1,0 +1,27 @@
+body{
+    background-color: #212121;
+}
+.jumbotron {
+    background-image: linear-gradient(to bottom left, #212121, #644987, #ea80fc);
+}
+thead th{
+    color: #ffffff;
+}
+table{
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.modal-body {
+    background-color: #212121;
+}
+
+.modal-header,
+.modal-footer {
+    background-image: linear-gradient(to bottom left, #212121, #644987, #ea80fc);
+}
+.modal-title {
+    color: #ffffff;
+}
+.table-hover{
+    color: #212121;
+}

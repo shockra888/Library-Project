@@ -1,0 +1,6 @@
+Admin Log in Credential
+
+Username: Reyneil
+Password: admin
+
+the table student is empty please add student credentials at admin page "StudentRegister"

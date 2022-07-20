@@ -1,0 +1,16 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+body{
+      background-image:linear-gradient(to bottom right,#212121, #644987, #ea80fc);
+      color: #000000;
+}
+ img{
+    height: 50%;
+    width: 50%;
+}
+#cont {
+    margin-top: 8%;
+}
